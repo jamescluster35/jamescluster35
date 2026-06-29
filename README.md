@@ -1,12 +1,9 @@
+markdown
 # Hi there, I'm M Haresh Kumar 👋
-
 ### Senior Software Architect & Automation Engineer
 I design and implement high-performance web applications, serverless microservices, and custom business automation pipelines. Specialize in connecting client-side applications with cloud platforms, Google Workspace APIs, and secure database frameworks.
-
 ---
-
 ## 🛠️ Core Capabilities
-
 <table>
   <tr>
     <td valign="top" width="50%">
@@ -27,30 +24,21 @@ I design and implement high-performance web applications, serverless microservic
     </td>
   </tr>
 </table>
-
 ---
-
 ## ⚡ Featured Architecture & Systems
-
 ### 1. [Revenue Leakage Calculator & PDF Engine](https://github.com/jamescluster35/revenue-leakage-calculator)
 * A high-converting diagnostic calculator that computes operational leakage server-side, protecting IP.
 * Generates custom 6-page PDF audits dynamically and routes HTML email delivery pipelines via Google Apps Script.
 * Integrates with a secure, passwordless client progress tracking portal.
-
 ### 2. [Executive Leads CRM Dashboard](https://github.com/jamescluster35/bdl-leads-pro-crm)
 * A React/Vite administration panel for tracking lead acquisition, outbound outreach stages, and conversions.
 * Normalizes lead casing and data streams, featuring interactive status-based filtering and instant search.
 * Communicates securely with the database via a custom Cloudflare Workers API Proxy.
-
 ### 3. [Outlook Sent Campaign Scraper](https://github.com/jamescluster35/revenue-leakage-calculator/tree/main/scripts)
 * Automation utility scripts written in Python/PowerShell to parse Outlook sent folders, deduplicate campaigns, sweep email bounces, and synchronize records back to the main Google Sheets CRM.
-
 ---
-
 ## 📐 System Integration Blueprint
-
 This diagram illustrates the secure, serverless infrastructure I architected to power our lead generation and tracking systems:
-
 ```mermaid
 graph TD
     Client[Client Browser] -->|1. Submit Calculator Input| Proxy[Cloudflare Workers API Proxy]
@@ -60,8 +48,6 @@ graph TD
     
     Admin[Admin CRM Portal] -->|1. Request Metrics & Filter Leads| Proxy
     Outlook[Outlook Campaign Script] -->|Sync Outbound Drips & Bounces| GSheets
-
-
 📊 Github Analytics
 Top Languages: JavaScript, HTML, CSS, Python, Apps Script
 Core Focus: APIs, Cloud Integration, System Architecture
@@ -71,4 +57,3 @@ Email:
 jamescluster35@gmail.com
 Location: Remote / Worldwide
 Specialties: SaaS integrations, REST APIs, Google Workspace automation, Serverless deployments.
-
