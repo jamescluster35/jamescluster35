@@ -25,6 +25,7 @@ I design and implement high-performance web applications, serverless microservic
   </tr>
 </table>
 ---
+
 ## ⚡ Featured Architecture & Systems
 ### 1. [Revenue Leakage Calculator & PDF Engine](https://github.com/jamescluster35/revenue-leakage-calculator)
 * A high-converting diagnostic calculator that computes operational leakage server-side, protecting IP.
