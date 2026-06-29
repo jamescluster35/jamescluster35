@@ -62,3 +62,13 @@ graph TD
     Outlook[Outlook Campaign Script] -->|Sync Outbound Drips & Bounces| GSheets
 
 
+📊 Github Analytics
+Top Languages: JavaScript, HTML, CSS, Python, Apps Script
+Core Focus: APIs, Cloud Integration, System Architecture
+✉️ Connect With Me
+Email: 
+
+jamescluster35@gmail.com
+Location: Remote / Worldwide
+Specialties: SaaS integrations, REST APIs, Google Workspace automation, Serverless deployments.
+
